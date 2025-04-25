@@ -14,6 +14,9 @@ Recent Updates
 - Kids Mode now allows linking multiple child devices  
 - Per-device scheduling added for better parental control  
 - UI flow refined for multi-device management
+- **Dark Mode**
+  - Toggle between light and dark UI themes
+  - Provides improved accessibility and comfort for all users
 
 Contributors
 - Mohammed Elmaghraby
